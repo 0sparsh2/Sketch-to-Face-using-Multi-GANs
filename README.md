@@ -15,7 +15,7 @@ Save the H5 file over your google drive which you can refer to your colab notebo
 
 ## Step 3
 
-Fire up the colab notebook. Run all imports and installations including accessing h5 model from google drive.
+Fire up the [colab notebook](Sketch_To_Face_Using_Multi_GANs.ipynb). Run all imports and installations including accessing h5 model from google drive.
 
 ## Step 4
 
