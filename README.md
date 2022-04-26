@@ -5,11 +5,13 @@ Contextual GANs, GFPGANs and DeOldify were used to implement our model which was
 
 ## Step 1
 
-Contextual GANs model. Training the model. We referred to _________ for their approach on text to face as layer 1. 
+Train the model for Contextual GANs and save them. 
+For the code of training the model, you can refer to this link [Sketch to Face Code](https://github.com/Malikanhar/Face-Sketch-to-Image-Generation-using-GAN/blob/master/Predict%20Image.ipynb). The code doesn't support Python 3.10 so I have made changes and uploaded the updated Python files in the current repository for referral. 
 
 ## Step 2
 
-Save model as h5 file. We have a very partially trained model on the given drive link. 
+Once the model is trained, save it in an H5 file as per the code. The training takes months over a CPU so it's suggested to use GPUs or TPUs to train. 
+Save the H5 file over your google drive which you can refer to your colab notebook.
 
 ## Step 3
 
@@ -21,7 +23,8 @@ Alterations in the notebook. gfpgan_inference.py file present in the GFPGANs fol
 
 ## Step 5
 
-Open Anvil. Link to colab notebook . Tutorial link which helped me ____. 
+Open Anvil. Link to colab notebook . Tutorial link which helped me - [Sample Anvil article](https://anvil.works/learn/tutorials/deepnote-to-web-app). 
+You can also refer to the [official documentations](https://anvil.works/docs/overview) . 
 
 <br />
 Layers of Processing: </br>
