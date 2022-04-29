@@ -44,5 +44,5 @@ Actual Face: <br />
 We used two metrics in our method of multigan. </br>
 *Structural Similarity Index Measure* and *L2-Normalization score* 
 
-### Structural Similarity Index Measure : 0.7804028372700662
-### L2-Normalization Score :  93.7520664666667
+#### Structural Similarity Index Measure : 0.7804028372700662
+#### L2-Normalization Score :  93.7520664666667
